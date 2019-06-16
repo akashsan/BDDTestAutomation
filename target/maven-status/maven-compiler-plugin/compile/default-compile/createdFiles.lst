@@ -1,0 +1,4 @@
+utility\Load_Properties.class
+com\mindvalley\pages\HomePage.class
+utility\SeleniumDriver.class
+com\mindvalley\pages\LoginPage.class
